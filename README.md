@@ -1,5 +1,5 @@
 # Carsties
-|
+
 ##(Work in progress)
 
 Desenvolvendo uma aplicação com micro-servicos em C# e Docker.
