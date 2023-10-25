@@ -3,7 +3,7 @@
 ### (WORK IN PROGRESS)
 AuctionApp is a robust microservices-based application designed for auction management. It includes services for identity management, bidding, searching, and real-time notifications, all powered by a modern tech stack.
 
-<img width="1680" alt="Captura de Tela 2023-10-21 às 15 11 00" src="https://github.com/guieltorres/Carsties/assets/68649783/016af082-6a51-4045-897d-94b050f14a60">
+<img width="1680" alt="architecture-img" src="https://github.com/guieltorres/Carsties/assets/68649783/e2bc332e-45ed-451f-8baf-e1cecfb8f849">
 
 ## Services
 
