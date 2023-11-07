@@ -106,7 +106,6 @@ public class AuctionsController : ControllerBase
 
         if (auction == null) return NotFound();
 
-        // TODO: check if seller == username
         if (auction.Seller != User.Identity.Name) return Forbid();
 
         _context.Auctions.Remove(auction);
